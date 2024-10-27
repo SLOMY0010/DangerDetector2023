@@ -13,5 +13,7 @@ The other two folders:
 
 You do not need to run any file other than the main_project.py because the modules and test images already exist.
 You may need to set a sender and receiver emails in the send_warning.py file.
+For the password of the sender, you have to use the apppassword feature of the senders google account. For information on using it, 
+watch only the first section of this video: https://www.youtube.com/watch?v=g_j6ILT-X0k
 
 This is just a quick documentation of the project written by Salem.                                                                                                     27th Oct, 2024
