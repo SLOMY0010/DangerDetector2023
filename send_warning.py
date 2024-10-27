@@ -11,10 +11,12 @@ from email import encoders
 def send_mail(img, dangers):
     
     # Emails imformation
+    # Get the password of the sender email you would like to use by using the apppassowrds feature in your google account.
+    # For information on how to use this feature, watch the first section of this youtube video: https://www.youtube.com/watch?v=g_j6ILT-X0k
     email_sender = ""
-    email_reciever = ""
+    email_reciever = "" 
 
-    email_password = ""
+    email_password = "" # 16 character apppassword
 
     # Email's components
     subject = "Warning!"
